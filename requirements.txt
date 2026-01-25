@@ -1,8 +1,1 @@
-fpdf2
-kaleido
-pandas
-numpy
-plotly
-streamlit
 matplotlib
-altair==4.2.2
