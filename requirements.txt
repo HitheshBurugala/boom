@@ -1,1 +1,7 @@
+fpdf2
+kaleido
+pandas
+numpy
+plotly
+streamlit
 matplotlib
