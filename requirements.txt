@@ -1,1 +1,19 @@
-matplotlib
+# Core app
+streamlit>=1.31.0
+
+# Data & math
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Excel support (xlsx / xls)
+openpyxl>=3.1.0
+xlrd>=2.0.1
+
+# Plotting
+matplotlib>=3.7.0
+
+# PDF generation
+reportlab>=4.0.0
+
+# OpenAI SDK (v1.x client API with OpenAI())
+openai>=1.3.0
